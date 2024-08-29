@@ -1,0 +1,6 @@
+ IP: 89.169.174.80;
+ name_taski: https://taskisex.sytes.net;
+ name_kittygram: https://solomongrad.zapto.org/;
+ login: roman;
+ password: 123;
+ 
